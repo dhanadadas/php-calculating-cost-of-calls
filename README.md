@@ -2,6 +2,7 @@
 Расчет стоимость телефонных звонков на основе журнала по условиям оператора связи. / Calculation of the cost of phone calls based on the log according to the terms of the operator.
 
 Журнал звонков такого вида: 
+
 $str = "
 
 00: 02: 45,400-234-344
